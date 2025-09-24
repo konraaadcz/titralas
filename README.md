@@ -1,1 +1,1 @@
-Ezt a kémia órai kísérletet megvalósítottam gépi formába, hogy egyszerűbbé tegyem a számításokat vele kapcsolatban. Fontos, hogy használat során pontos NaOH mennyiségeket adj meg!
+Ezt a kémia órai kísérletet megvalósítottam gépi formába, hogy egyszerűbbé tegyem a számításokat vele kapcsolatban. Jelenleg csak egy sima console-os felületről beszélünk. Fontos, hogy használat során pontos NaOH mennyiségeket adj meg!
